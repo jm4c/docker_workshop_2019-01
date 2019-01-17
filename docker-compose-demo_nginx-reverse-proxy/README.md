@@ -1,4 +1,4 @@
-# Docker Workshop 04 - Docker Compose Example
+# Docker Compose Example
 
 This Example contains:
  * A reverse proxy using nginx server with different locations (2 Python apps)

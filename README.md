@@ -4,6 +4,6 @@ This workshop includes 4 tutorials (the tutorials were taken from [willitscale's
 
 At the moment I am hosting using a public github repository since some attendees will be using [PWD (Play With Docker)](https://labs.play-with-docker.com/). I also suggest using it if the internet connection in Tagus isn't the best.
 
-To start this tutorial just clone the repository (`git clone https://github/jm4c/docker_workshop_2019-01.git`).
+To start this tutorial just clone the repository (`git clone https://github.com/jm4c/docker_workshop_2019-01.git`).
 
 After the presentation this repository will be moved to https://github.ibm.com/Joao-Machado/docker_workshop_2019-01.
